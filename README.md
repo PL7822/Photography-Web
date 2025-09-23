@@ -7,7 +7,7 @@
 ## 🚀 Live Demo
 
 Check out the live website here:  
-👉 [https://68ca9783f15a2911a4ec8eac--photography-webb.netlify.app/](https://68ca9783f15a2911a4ec8eac--photography-webb.netlify.app/)
+👉 [Photography-Web](https://68ca9783f15a2911a4ec8eac--photography-webb.netlify.app/)  
 
 ---
 
@@ -59,17 +59,11 @@ To deploy the project on Netlify:
 
 5. Deploy site: Click "Deploy site".
 
-**📧 Contact**
+## 🔗 Links
 
-⚫Name: Pritam Lendale
-
-⚫Email: pritamlendale@gmail.com
-
-⚫Phone: +91 7822058623
-
-⚫Location: Nanded, Maharashtra
-
-⚫LinkedIn: Pritam Lendale
+- **Hosted Application**: [Photography-Web](https://68ca9783f15a2911a4ec8eac--photography-webb.netlify.app/)  
+- **GitHub Repository**: [Photography-Web GitHub](https://github.com/PL7822/Photography-Web)
+- **linkedin Profile**: [linkedin](https://www.linkedin.com/in/pritam-lendale-398172353?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  e
 
 
    
