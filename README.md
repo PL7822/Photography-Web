@@ -57,7 +57,7 @@ To deploy the project on Netlify:
 
    ⚫Publish directory: build/
 
-5. Deploy site: Click "Deploy site".
+5. Deploy site: Click "Deploy site" .
 
 ## 🔗 Links
 
