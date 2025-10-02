@@ -2,6 +2,7 @@
 
 **Fotogency** is a photography portfolio website designed to showcase the work of photographers. This website is hosted on Netlify and provides an attractive and user-friendly platform for photographers to display their work online.
 
+My personal portfolio   <a href="https://68d1a2d92f3bbf7602ea7cab--portfolio-master-pritam.netlify.app/" target="_blank">Pritam_Lendale</a>
 ---
 
 ## 🚀 Live Demo
